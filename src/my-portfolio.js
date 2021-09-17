@@ -19,7 +19,7 @@ const header = {
     {
       name: 'DCI DEVS',
       description:
-        'DCI Developer Community ',
+        'DCI Developer Community Project,made together with my colleagues from web development course ',
       stack: ['HTML', 'CSS', 'React', 'Node.js', 'Express.js','MongoDB'],
       sourceCode: 'https://github.com/florinfiath/Final-Project-DCI-Developer-Community-Frontend ',
       livePreview: 'https://dci-devs.herokuapp.com/',
@@ -27,7 +27,7 @@ const header = {
     {
       name: 'S.F.K Entertainment',
       description:
-        'React Final Project',
+        'React Final Project ,made together with my colleagues from web development course',
       stack: ['CSS', 'React', 'Node.js', 'Express.js','MongoDB'],
       sourceCode: 'https://github.com/florinfiath/React_Final_Project',
       livePreview: 'https://sfk-entertainment.herokuapp.com/',
