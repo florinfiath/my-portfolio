@@ -7,8 +7,8 @@ const header = {
     name: 'Florin Fiath',
     role: 'Full Stack Web Developer',
     description:'An engineer with more than 10 years experience in deployment and rollout management who decided to take another challenge and learn something new in the programming world.',
-    resume: 'https://drive.google.com/file/d/1WMsrY1LKmGecICCcnQ6qCsd1JwM750GQ/view?usp=sharing',
-    lebenslauf:'https://drive.google.com/file/d/1WZEDg7MgzZFdta6IoBMvvTnWMwOB1ZvV/view?usp=sharing',
+    resume: 'https://drive.google.com/file/d/1DhAg3yql_G5TcsI1SwrHdLtYNSAbgZ-e/view?usp=sharing',
+    lebenslauf:'https://drive.google.com/file/d/16-8JVqmML8EAlC6E1ovsQCybeQk97cFR/view?usp=sharing',
     social: {
       linkedin:'https://www.linkedin.com/in/florin-fiath-20637827/',
       github: 'https://github.com/florinfiath',
