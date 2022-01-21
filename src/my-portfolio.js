@@ -7,10 +7,10 @@ const header = {
     name: 'Florin Fiath',
     role: 'Full Stack Web Developer',
     description:'An engineer with more than 10 years experience in deployment and rollout management who decided to take another challenge and learn something new in the programming world.',
-    resume: 'https://drive.google.com/file/d/1DhAg3yql_G5TcsI1SwrHdLtYNSAbgZ-e/view?usp=sharing',
-    lebenslauf:'https://drive.google.com/file/d/16-8JVqmML8EAlC6E1ovsQCybeQk97cFR/view?usp=sharing',
+    resume: 'https://drive.google.com/file/d/1iAL_ToD5toKkCMiAmWW4Z9CbaN_-Ka4a/view?usp=sharing',
+    lebenslauf:'https://drive.google.com/file/d/1tlE5Rn3YyaCe2I0586_r-BQYd6G62910/view?usp=sharing',
     social: {
-      linkedin:'https://www.linkedin.com/in/florin-fiath-20637827/',
+      linkedin:'https://www.linkedin.com/in/florin-fiath-20637827',
       github: 'https://github.com/florinfiath',
     },
   }
