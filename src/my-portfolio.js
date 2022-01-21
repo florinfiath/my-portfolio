@@ -10,7 +10,7 @@ const header = {
     resume: 'https://drive.google.com/file/d/19q9oaXAKfVUCL6x97wW34SKxKX44h-zr/view?usp=sharing',
     lebenslauf:'https://drive.google.com/file/d/1EhmaaAXPoAqI9X6VN4k8_SCAihxjcanW/view?usp=sharing',
     social: {
-      linkedin:'linkedin.com/in/florin-fiath-20637827',
+      linkedin:'https://linkedin.com/in/florin-fiath-20637827',
       github: 'https://github.com/florinfiath',
     },
   }
